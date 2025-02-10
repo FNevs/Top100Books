@@ -2,12 +2,12 @@
 
 This project is a Streamlit-based web application for visualizing and exploring data about trending books, including their reviews, prices, and publication years. The app provides interactive tools for filtering and analyzing the dataset.
 
-## Features
+<!--## Features
 
 - 📈 **Price Range Filter:** Adjust the price range of books to filter the displayed results.
 - 📊 **Interactive Visualizations:** View bar charts of book publication years and histograms of book prices.
 - 📖 **Detailed Book Pages:** Select individual books to view their details (e.g., price, genre, rating, and reviews).
-- 🗂️ **Multi-Page Layout:** Modular structure with separate pages for different functionalities.
+- 🗂️ **Multi-Page Layout:** Modular structure with separate pages for different functionalities.-->
 
 ## Requirements
 
