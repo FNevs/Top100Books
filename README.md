@@ -37,18 +37,7 @@ To run this project, you need to have the following installed:
    ```bash
    streamlit run 📚_top100.py
    ```
-
-## Usage
-
-### Top 100 (`📚_top100.py`):
-- Use the sidebar to adjust the price range of books.
-- Explore visualizations of publication years and book prices.
-
-### Book Details (`pages/✍️_book_details.py`):
-- Select a book from the dropdown menu.
-- View detailed information about the book, including reviews and ratings.
-
-## Data Sources
+## Dataset
 
 The datasets used in this project are sourced from [Kaggle: Top 100 Bestselling Book Reviews on Amazon](https://www.kaggle.com/datasets/anshtanwar/top-200-trending-books-with-reviews).
 
@@ -57,12 +46,3 @@ The datasets used in this project are sourced from [Kaggle: Top 100 Bestselling 
 - **Streamlit**: For building the web application.
 - **Pandas**: For data manipulation and processing.
 - **Plotly Express**: For creating interactive visualizations.
-
-## Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests to improve the project. 
-
-## Future Improvements 🚧
-- Integrate an API: Implement an API like the Google Books API or Open Library API to fetch real-time book data, reviews, and ratings. 
-- Dynamic Dataset Updates: Replace the static dataset with a system that allows periodic updates, ensuring that the information remains current and relevant.
-- Enhanced Visualizations: Add new types of visualizations, such as word clouds for reviews or scatter plots to analyze correlations between book ratings and prices.
